@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),r={};if(!Array){e.resolveComponent("soup-self")()}Math;const o=e._export_sfc(r,[["render",function(r,o){return{a:e.p({type:2})}}]]);wx.createPage(o);

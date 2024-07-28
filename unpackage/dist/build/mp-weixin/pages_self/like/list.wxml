@@ -1,0 +1,1 @@
+<view class="layout"><soup-self wx:if="{{a}}" u-i="ac66ae5a-0" bind:__l="__l" u-p="{{a}}"></soup-self></view>

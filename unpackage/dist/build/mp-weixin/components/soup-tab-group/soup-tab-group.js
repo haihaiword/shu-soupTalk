@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),t=require("../../common/assets.js"),p={__name:"soup-tab-group",props:{type:{type:Number,default:0}},setup:p=>(o,s)=>e.e({a:1===p.type},1===p.type?{b:t._imports_0$4}:{},{c:0===p.type},0===p.type?{d:t._imports_1}:{})},o=e._export_sfc(p,[["__scopeId","data-v-fc95bdb0"]]);wx.createComponent(o);

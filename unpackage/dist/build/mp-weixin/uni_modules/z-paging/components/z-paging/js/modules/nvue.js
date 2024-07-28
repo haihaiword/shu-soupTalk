@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../../../../common/vendor.js"),n={props:{},data:()=>({nRefresherLoading:!1,nListIsDragging:!1,nShowBottom:!0,nFixFreezing:!1,nShowRefresherReveal:!1,nLoadingMoreFixedHeight:!1,nShowRefresherRevealHeight:0,nOldShowRefresherRevealHeight:-1,nRefresherWidth:e.index.upx2px(750)}),computed:{},mounted(){},methods:{}};exports.nvueModule=n;
